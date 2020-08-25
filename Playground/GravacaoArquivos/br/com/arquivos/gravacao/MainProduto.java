@@ -11,8 +11,6 @@ import javax.swing.JOptionPane;
 
 public class MainProduto {
 
-	static final Integer ESTOQUE_MINIMO = 10;
-
 	public static void main(String[] args) throws IOException {
 
 		ArrayList<String> linhas = new ArrayList<String>();
