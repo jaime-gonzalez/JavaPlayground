@@ -2,7 +2,7 @@ package br.com.apex.strings.arrays.palindromos;
 
 import javax.swing.JOptionPane;
 
-public class IdentificadorPalindromos {
+public class Main {
 
 	private static String palavra = JOptionPane.showInputDialog("Digite uma palavra qualquer");
 
