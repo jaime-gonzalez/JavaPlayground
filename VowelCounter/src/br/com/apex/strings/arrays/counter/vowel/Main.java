@@ -1,4 +1,4 @@
-package br.com.apex.strings.arrays.vogais.contador;
+package br.com.apex.strings.arrays.counter.vowel;
 
 import javax.swing.JOptionPane;
 
