@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 import javax.swing.JOptionPane;
 
-public class MainProduto {
+public class Main {
 
 	public static void main(String[] args) throws IOException {
 
