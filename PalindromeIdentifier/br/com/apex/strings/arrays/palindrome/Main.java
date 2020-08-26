@@ -1,4 +1,4 @@
-package br.com.apex.strings.arrays.palindromos;
+package br.com.apex.strings.arrays.palindrome;
 
 import javax.swing.JOptionPane;
 
