@@ -1,4 +1,4 @@
-package br.com.crypto.caesar;
+package br.com.encrypter;
 
 import javax.swing.JDialog;
 import javax.swing.JOptionPane;
