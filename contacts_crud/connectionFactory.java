@@ -7,7 +7,7 @@ public class ConnectionFactory {
 	
 	private static final String DATABASE_URL = "jdbc:mysql://localhost:3306/cadastro";
 	private static final String USERNAME = "root";
-	private static final String PASSWORD = "jvbn42.klpo19";
+	private static final String PASSWORD = "senha";
 	
 	public static Connection CreateConnectionToMySQL() throws Exception{
 		
